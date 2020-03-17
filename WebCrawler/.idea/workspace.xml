@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f8b4a4e-d07e-4cf2-a1e6-0660aa02578a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YuxXnCoUahQNf2z6S9EGiWZm4o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/META-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.CustomCleanTextSelector-1.0-SNAPSHOT-jar-with-dependencies.jar">
+    <configuration name="ContentHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HtmlSourceHandler.ContentHandler" />
+      <module name="CustomCleanTextSelector" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomCleanTextSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomCleanTextSelector" />
+      <module name="CustomCleanTextSelector" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HtmlSourceGetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HtmlSourceHandler.HtmlSourceGetter" />
+      <module name="CustomCleanTextSelector" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomCleanTextSelector-1.0-SNAPSHOT-jar-with-dependencies.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/CustomCleanTextSelector-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CustomCleanTextSelector-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/CustomCleanTextSelector-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.CustomCleanTextSelector-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+        <item itemvalue="JAR Application.CustomCleanTextSelector-1.0-SNAPSHOT.jar" />
+        <item itemvalue="Application.ContentHandler" />
+        <item itemvalue="Application.CustomCleanTextSelector" />
+        <item itemvalue="Application.HtmlSourceGetter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f8b4a4e-d07e-4cf2-a1e6-0660aa02578a" name="Default Changelist" comment="" />
+      <created>1583806322929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583806322929</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="75" y="217" width="800" height="684" key="#Inspections" timestamp="1584409934335">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="75" y="217" width="800" height="684" key="#Inspections/0.32.1920.1048@0.32.1920.1048" timestamp="1584409934335" />
+    <state x="75" y="217" width="800" height="684" key="#Project_Structure" timestamp="1584410265785">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="75" y="217" width="800" height="684" key="#Project_Structure/0.32.1920.1048@0.32.1920.1048" timestamp="1584410265785" />
+    <state x="1248" y="274" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1583911515213">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="1248" y="274" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.32.1920.1048@0.32.1920.1048" timestamp="1583911515213" />
+    <state x="203" y="236" width="544" height="645" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1584372947635">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="203" y="236" width="544" height="645" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1584372947635" />
+    <state x="693" y="305" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583897692412">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="693" y="305" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1583897692412" />
+    <state x="1198" y="300" width="652" height="519" key="FileChooserDialogImpl" timestamp="1583934534391">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="1198" y="300" width="652" height="519" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1583934534391" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1584411094141">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1584411094141" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1584411094141">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1584411094141" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1584411094140">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1584411094140" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1584411094141">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1584411094141" />
+    <state width="1878" height="304" key="GridCell.Tab.1.bottom" timestamp="1584411094143">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.1.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1584411094143" />
+    <state width="1878" height="304" key="GridCell.Tab.1.center" timestamp="1584411094142">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.1.center/0.32.1920.1048@0.32.1920.1048" timestamp="1584411094142" />
+    <state width="1878" height="304" key="GridCell.Tab.1.left" timestamp="1584411094142">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.1.left/0.32.1920.1048@0.32.1920.1048" timestamp="1584411094142" />
+    <state width="1878" height="304" key="GridCell.Tab.1.right" timestamp="1584411094142">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.1.right/0.32.1920.1048@0.32.1920.1048" timestamp="1584411094142" />
+    <state x="13" y="213" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1584373816143">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="13" y="213" width="924" height="691" key="Maven.ArtifactSearchDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1584373816143" />
+    <state x="769" y="123" width="1024" height="852" key="SettingsEditor" timestamp="1584410218186">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="769" y="123" width="1024" height="852" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1584410218186" />
+    <state x="1123" y="152" width="634" height="807" key="find.popup" timestamp="1584350865768">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="1123" y="152" width="634" height="807" key="find.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1584350865768" />
+    <state x="742" y="168" width="1168" height="781" key="new project wizard" timestamp="1584367360424">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="742" y="168" width="1168" height="781" key="new project wizard/0.32.1920.1048@0.32.1920.1048" timestamp="1584367360424" />
+  </component>
+</project>
